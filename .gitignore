@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Resultados generados al ejecutar
+salida/
+prueba_rapida/
+*.pickle
+*.pkl
+
+# Sistema / editor
+.DS_Store
+.vscode/
+.idea/
